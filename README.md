@@ -22,3 +22,8 @@ Reworked from the supplied portfolio into a professional operations/terminal aes
 No framework or build step is required. Open `index.html` directly or serve the folder from any static web server.
 
 The content preserves the major portfolio themes from the original: project management, web development, education systems, civic technology, sustainability, student performance, attendance tools and Arduino/IoT concepts.
+
+
+## Profile picture and music
+
+Put `profile.png` and `music.mp3` beside `index.html`. The profile rotates while music is playing. The header button toggles PLAY MUSIC / MUTE MUSIC. Music starts from a user click to comply with browser autoplay rules.
